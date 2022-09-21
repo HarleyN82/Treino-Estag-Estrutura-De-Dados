@@ -13,7 +13,7 @@ Isso funciona exatamente como uma pilha de pratos para lavar, ou de livros empil
 
 ## Implementação da Stack ##
 
-As pilhas podem ser implementadas em Array e <a href="https://github.com/SamaraSilvia21/Treino-Estag-Estrutura-De-Dados/tree/main/Linked%20List">Linked List<a\>
+As pilhas podem ser implementadas em Array e <a href="https://github.com/SamaraSilvia21/Treino-Estag-Estrutura-De-Dados/tree/main/Linked%20List">Linked List
 
 ## Exemplos de Projetos com Stacks ##
 - 
