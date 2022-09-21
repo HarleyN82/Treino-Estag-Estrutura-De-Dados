@@ -37,3 +37,4 @@ A grande diferença linked list e arrays é que linked list não são indexadas,
 - https://medium.com/geekculture/doubly-linked-lists-javascript-b13cc21ca59d#:~:text=Doubly%20Linked%20Lists%20%E2%80%94%20JavaScript%201%20Basic%20Operations,Continue%20reading%20about%20the%20linked%20list%20here%20%F0%9F%91%87
 - https://www.mundojs.com.br/2018/09/06/removendo-elementos-de-uma-lista-array-javascript/
 - https://www.mundojs.com.br/2019/11/01/estrutura-de-dados-com-javascript-lista-encadeada/
+- https://sebhastian.com/doubly-linked-list-javascript/
