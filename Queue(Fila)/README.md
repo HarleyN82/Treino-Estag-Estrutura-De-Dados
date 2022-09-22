@@ -3,7 +3,7 @@
 
 Esse controle quer dizer que os dados contidos nela são podem entrar apenas por uma ponta e deverão sair pela outra. Com isso, garante-se que o primeiro dado que entrou será o primeiro a sair da fila.
 
-![image](https://th.bing.com/th/id/R.2638ff1b56990684c22f195589fff9bd?rik=4AEMvtcb14bHDA&pid=ImgRaw&r=200)
+![image](https://th.bing.com/th/id/R.2638ff1b56990684c22f195589fff9bd?rik=4AEMvtcb14bHDA&pid=ImgRaw&r=0)
 
 ## Casos de Uso - Queue ##
 
