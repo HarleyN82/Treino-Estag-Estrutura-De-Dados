@@ -1,7 +1,7 @@
 # SUMMARY ON THE STACKS
 ### Pilhas são uma coleção ordenada de itens que segue o princípio *LIFO* (Last in First Out), ou seja, o último a entrar é o primeiro a sair. ###
 
-https://th.bing.com/th/id/OIP.2UlZCXNJWo0_2EvOxdNAJwHaLF?pid=ImgDet&rs=1
+![image](https://user-images.githubusercontent.com/113690864/191750982-ccc43040-1290-4de9-b159-d7a1e30ba9f7.png)
 
 Isso funciona exatamente como uma pilha de pratos para lavar, ou de livros empilhados (como mostrada na imagem), ou até mesmo o funcionamento do próprio bronser na seleção de páginas quando você retorna.
 
