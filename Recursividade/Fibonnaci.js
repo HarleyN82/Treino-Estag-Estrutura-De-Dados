@@ -1,4 +1,5 @@
-// Note Big O(2^n)
+//Lógica: Pega o número anterior e soma com o valor atual.
+//0 - 1 - 1 - 2 - 3 - 5
 
 function fibonacci(n) {
 
