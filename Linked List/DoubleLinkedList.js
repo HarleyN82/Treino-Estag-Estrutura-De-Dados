@@ -15,7 +15,7 @@ let previous_node;
 let current_value;
 let current_idx;
 
-// implementation of linked list 
+// implementation of Double linked list 
 
 class DoubleNode { // nó
 
@@ -26,7 +26,7 @@ class DoubleNode { // nó
     }
 }
 
-class LinkedList { // Minha classe base
+class DoubleLinkedList { // Minha classe base
 
     constructor(){  // dado da lista e o ponteiro
 
@@ -257,7 +257,7 @@ class LinkedList { // Minha classe base
 
 // Test
 
-let myList = new LinkedList();
+let myList = new DoubleLinkedList();
 
 myList.display();
 

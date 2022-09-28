@@ -27,7 +27,7 @@ class Node { // nó
 // Funções criadas dentro de uma classe não precisam de "function" ou algo do tipo, apenas o nome;
 // Obs: Embora um arrow function + const funcione, nesse caso precisamos do nome para referenciar.
 
-class DoubleLinkedList { // Minha classe base
+class LinkedList { // Minha classe base
 
     constructor(){  // dado da lista e o ponteiro
         this.head = null; // cabeça da lista

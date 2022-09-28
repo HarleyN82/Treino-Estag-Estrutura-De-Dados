@@ -46,6 +46,8 @@ class Stack {
     }
 }
 
+// Test
+
 const myStack = new Stack();
 
 myStack.push("Page 1");
@@ -55,7 +57,7 @@ myStack.push("Page 4");
 
 //myStack.pop(); // elimina automaticamente o primeiro item.
 
-myStack.getContador();
+myStack.getSize();
 
 console.log(myStack.items) // Exibe toda a pilha
 console.log("O primeiro item é: " + myStack.peek())
