@@ -105,7 +105,23 @@ class BinaryHeap {
     
     //Return head
     getList = () => list;
+
+    isLeaf(index) {
+      return (
+          index >= Math.floor(list.length / 2) && index <= list.length - 1
+      )
   }
+
+    print() {
+      let i = 0;
+      while (!this.isLeaf(i)) {
+          console.log("PARENT:", list[i]);
+          console.log("LEFT CHILD:", list[2 * i + 1]);
+          console.log("RIGHT CHILD:", list[2 * i + 2]);
+          i++;
+      }      
+  }
+}
 
 Input:
 var heap = new BinaryHeap();
@@ -125,7 +141,7 @@ heap.insert(4);
 heap.insert(15);
 
 console.log(heap.getList());
-console.log(heap.findMax());
-
+console.log(heap.print());
 console.log(heap.extractMax());
 console.log(heap.getList());
+console.log(heap.print());
